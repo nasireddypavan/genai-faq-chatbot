@@ -1,7 +1,9 @@
-fastapi  
-uvicorn  
-streamlit  
-openai  
-langchain  
-faiss-cpu  
-python-dotenv  
+fastapi
+uvicorn
+openai
+faiss-cpu
+pypdf
+tiktoken
+python-dotenv
+streamlit
+requests
