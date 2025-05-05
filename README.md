@@ -153,14 +153,6 @@ streamlit run ui/streamlit_ui.py
 2. **Ask a Question**: Ask a question like "What is the leave policy?"
 3. **Receive Context-Aware Answer**: The bot retrieves the most relevant section from the PDF and answers based on that context.
 
----
-
-## 🛡️ Security Considerations
-
-* **API keys**: Never hard-code your API keys. Use environment variables or Azure secrets to manage them.
-* **Input Sanitization**: Ensure that uploaded PDFs are sanitized before processing to avoid any security risks.
-
----
 
 ## 🔧 Deployment to Azure App Service
 
@@ -194,20 +186,5 @@ streamlit run ui/streamlit_ui.py
 
 ---
 
-## 📜 License
+you can try it out here https://genai-faq-chatbot-cxkf2iynnw7qqujinmcw6a.streamlit.app/
 
-MIT License
-
-```
-
----
-
-With this `README.md`, you're ready to deploy and share the details of your project. It includes:
-
-- Project overview
-- Installation instructions
-- How to run and deploy
-- API and UI details
-
-Let me know if you need anything else, or if you want more details on deploying to Azure!
-```
